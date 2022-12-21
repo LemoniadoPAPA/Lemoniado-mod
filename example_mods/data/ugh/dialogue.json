@@ -1,0 +1,221 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Bueno...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Hoy me toca ir en avion, ya guarde todo",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nunca fui, vos fuiste en algun momento"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Si, muchisimas veces"
+		},
+		{
+			"expression": "talk",
+			"text": "A ver que hora es",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "7:30 AM",
+			"boxState": "normal",
+			"portrait": "none",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Que!!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tiempo despues (9:00)"
+		},
+		{
+			"expression": "shocked",
+			"text": "Paro el avion...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.145
+		},
+		{
+			"expression": "shocked",
+			"text": "Voy a animarme a ver por la ventana",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Ahhh",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Nada mas ya termino el viaje",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "11:30 AM",
+			"boxState": "normal",
+			"portrait": "none",
+			"speed": 0.12
+		},
+		{
+			"expression": "talk",
+			"text": "Wooooow",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Mira esa Montania",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Es enooooooooooooooooooorme",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, si soy yo (Lemoniado endemoniado) y \\\\nqueria avisar que cuando aparezca hablando no va a contar con la Historia"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Queria avisar de que Lemon Bf dice Montania porque la LETRA QUE SE USA EN PAISES COMO ARGENTINA no esta en Psych"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Y no puedo escribirla"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sigamos"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey!!",
+			"boxState": "normal",
+			"portrait": "none",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "What?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Tengo que revisarlos",
+			"boxState": "normal",
+			"portrait": "tank",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "(pensando) ufffffffff",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "es mi trabajo -_-",
+			"boxState": "normal",
+			"portrait": "tank",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Espera",
+			"boxState": "normal",
+			"portrait": "tank",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Porque tienen microfonos?",
+			"boxState": "normal",
+			"portrait": "tank",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "(Pensando) Que digo",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "Rapeamos?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Pero si pierdo dos veces te disparo con mi pistola",
+			"boxState": "normal",
+			"portrait": "tank",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Ok O_ O",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

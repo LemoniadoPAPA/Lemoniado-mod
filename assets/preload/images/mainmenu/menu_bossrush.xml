@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_bossrush.png">
+<SubTexture name=" idle0000" x="0" y="81" width="522" height="79" frameX="-34" frameY="-110" frameWidth="574" frameHeight="204" />
+<SubTexture name=" selected0000" x="0" y="0" width="522" height="81" frameX="-34" frameY="-109" frameWidth="574" frameHeight="204" />
+</TextureAtlas>

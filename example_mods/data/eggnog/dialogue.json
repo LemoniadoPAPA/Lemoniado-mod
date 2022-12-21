@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "PUM PUM PUM! (Efecto de sonido xdd)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Vos tambien escuchaste esos pasos?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico_boina",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SE ESTA ACERCANDO UN MONSTRUO,\\nTODOS HUYAN!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NO DEBE SER VERDAD, MIKU ESTA\\nMINTIENDO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, si soy yo (Lemoniado endemoniado) y \\\\nqueria avisar que cuando aparezca hablando no va a contar con la Historia"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Contexto: En Winter Horrorland aparece Lemon\\nDemon y Miku lo estaba avisando"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Y que la voz de Mom (Personaje original de Fnf) la deje porque no puedo hacer un cover, no tengo Midi ni nada"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Esa voz se tiene que tomar como que Miku esta cantando"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sigamos"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Mejor sigamos rapeando"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico_boina",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Si"
+		}
+	]
+}

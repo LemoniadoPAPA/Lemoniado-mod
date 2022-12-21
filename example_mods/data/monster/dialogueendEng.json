@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Door opening) PUUUM"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "RUN"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "RUUUN"
+		},
+		{
+			"speed": 0.115,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I wIlL rEtUrN..."
+		}
+	]
+}

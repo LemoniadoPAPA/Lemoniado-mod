@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Se abre la Puerta) PUUUM"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "DALE, DALE, VAYAMOS QUE NOS VA A\\nMATAR SI NO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "DALE, DALE"
+		},
+		{
+			"speed": 0.115,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "VoY a VoLvEr..."
+		}
+	]
+}

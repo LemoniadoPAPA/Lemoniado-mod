@@ -1,0 +1,48 @@
+{
+	"storyName": "Un viaje especial",
+	"hideFreeplay": false,
+	"weekBackground": "mendoza",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"tankman",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ugh",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"guns",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"stress",
+			"tankgod",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

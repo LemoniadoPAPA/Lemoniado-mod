@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "There aren't a song more Hard?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "(Thinking) WHY I SAYED THAT??",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "(Thinking) ANULO MUFA (Spanish)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "B)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Now, we're going so much faster :)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "talk",
+			"text": "And you can fall more easily :)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "shocked",
+			"text": "* Scared*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "BALANCE TIME!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Aaaaa",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.3,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "????",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "You don't remember? huh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "Ohhh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "(Thinking) What if i win this time??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+	]
+}

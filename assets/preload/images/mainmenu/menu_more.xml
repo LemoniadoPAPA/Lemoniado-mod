@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_more.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="more basic0000" x="0" y="0" width="836" height="124" pivotX="8.4" pivotY="9.8" frameX="190" frameY="-3" frameWidth="796" frameHeight="181"/>
+	<SubTexture name="more white0000" x="0" y="123" width="836" height="123" pivotX="11.05" pivotY="17.15" frameX="102" frameY="-18" frameWidth="796" frameHeight="181"/>
+</TextureAtlas>

@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "(Skid) -_-",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "spooky",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "(Pump) I sayed it",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) REMATCH!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) Here is a Glitch virus victim",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.285,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.285,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "You're lying, right?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) No, i'm saying the truth...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.11,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) And is a Lemon",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Spooky"
+		},
+		{
+			"expression": "shocked",
+			"text": "WE CAN START SINGING NOW?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) Ok",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		}
+	]
+}

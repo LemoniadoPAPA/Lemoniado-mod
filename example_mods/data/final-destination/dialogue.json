@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Si, soy yo OTRA VEZ (esta es la ultima)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Queria avisar que Final Destination es del mod Shaggy x Matt, el cual esta hecho \\nprincipalmente por SrPerez y Sulayre"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ademas, el chart en 4K es uno descargado de  GB, no queria perder tiempo en portear el mod a un Psych engine con Extra keys y"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "tampoco hacer un Chart yo mismo, el chart esta hecho por DonoNaza_UwU"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Por ultimo, me hize un Tumblr para adelantos de Lemoniado Mod. Si los queres ver seguime por ahi, me llamo lemondevgod"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sigamos"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "(pensando) Uff, se enojo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "LA TERCERA ES LA VENCIDA NO?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Ja, no te tengo miedo. Ya van 2 canciones y no me ganas B)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Y fueron faciles"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "B)"
+		},
+		{
+			"speed": 0.09,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Se van a arrepentir de decir eso..."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "les voy a hacer TRAGAR sus palabras..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ya van a ver..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Fck"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Fck"
+		}
+	]
+}

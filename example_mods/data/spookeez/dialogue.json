@@ -1,0 +1,220 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Luego de un Viernes cansador de escuela, Lemon bf y Lemon gf decidieron ir a un parque cercano para descansar",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "confused",
+			"text": "Pero a los 15 minutos ven las sombras de Skid y Pump, las animaciones de SrPelo!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Espera"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Soy yo o ahi parece que estan Skid y Pump??"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No, no sos vos, parece que estan ahi!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Vamos?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Obvio, de paso les pregunto cuando sale el proximo episodio de Spooky Month"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Y comenzaron a perseguirlos, pero Skid y Pump, al no saber que estaban ahi, se fueron"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Se estan alejando mucho, parece que van a esa mansion rara"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Diria que los sigamos hasta alla y que si no llegamos en ese caso volvamos"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Si, hagamos eso"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "15 minutos despues"
+		},
+		{
+			"expression": "confused",
+			"text": "Woooooooooooooooow",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "La mansion es demasiado grande",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Si, diria que volvamos",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Pump) Heyy, porque vinieron hasta aca?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) Si, porque vinieron?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "(Pensando) SIIIIIIIII!!"
+		},
+		{
+			"expression": "talk",
+			"text": "Vinimos porque ambos somos fanaticos de sus animaciones del Spooky Month",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Y porque queremos saber cuando sale el proxmo capitulo"
+		},
+		{
+			"expression": "talk",
+			"text": "NUNCA VA A SALIR EL CAPITULO!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "Porque?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) Miranos, yo di un golpazo en la Cabeza y me duele MUUUCHO, y a Pump se le esta Pudriendo La Calabaza (Cabeza)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "confused",
+			"text": "Pueden hacer una Batalla de Rap al menos?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Pump)Si",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid)Vamos a Ganarles, no Pump?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "(Pump) No creo, sinceramente",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Spooky"
+		}
+	]
+}

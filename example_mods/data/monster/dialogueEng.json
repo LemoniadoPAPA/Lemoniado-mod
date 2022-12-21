@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "(Steps) PUM, PUM PUM"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "(Skid and Pump) LET'S LEAVE NOW!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(More steps) PUUM, PUUM, PUUUM"
+		},
+		{
+			"speed": 0.135,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AnOtHeR vIcTiM"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh shit, here we go again"
+		},
+		{
+			"speed": 0.115,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ThIs Is A sUrViVaL..."
+		},
+		{
+			"speed": 0.115,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YoU sHoUlD tRy DoDgE mY aTtAcKs"
+		},
+		{
+			"speed": 0.115,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THE OUTPUT IS BLOCKED..."
+		},
+		{
+			"speed": 0.005,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "O_ O"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Q_ Q"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "(Rip)"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_permisos.png">
+<SubTexture name="permisos white0000" x="0" y="0" width="571" height="99" frameX="0" frameY="-53" frameWidth="574" frameHeight="204" />
+<SubTexture name="permisos basic0000" x="0" y="99" width="571" height="99" frameX="0" frameY="-53" frameWidth="574" frameHeight="204" />
+</TextureAtlas>

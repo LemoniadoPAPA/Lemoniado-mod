@@ -1,0 +1,212 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "After a long friday, Lemon bf and Lemon gf go to a park",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "confused",
+			"text": "But after 15 minutes, Lemon bf sees the Skid n' Pump shadows, the SrPelo animations!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Stop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There are the Skid and Pump shadows??"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes, there are!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's go?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ya', i will make a question, When other chapter comes out?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But, Skid and Pump just leave, they runs SO fast"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "There are so far, and are going to that big house"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "We can go only to that house? im so tired"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ya', i'm tired too"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "15 minutes after"
+		},
+		{
+			"expression": "confused",
+			"text": "Woooooooooooooooow",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "This house is SO big",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "We can leav : (",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Pump) Heyyy, Why u' two are here?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) Ya', why u' two are here?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "(Pensando) YESSS!!!"
+		},
+		{
+			"expression": "talk",
+			"text": "We like so much Spooky month",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "And when the next episode comes out?"
+		},
+		{
+			"expression": "talk",
+			"text": "NEVER!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "Why?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) Look, my head are red, and the pumpkin (Head) of Pump are gray ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "confused",
+			"text": "U' two can make a rap battle?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Pump) Ya'",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) Let's win!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+	]
+}

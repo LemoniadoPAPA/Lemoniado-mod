@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "3...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "2...",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "1!!!!!!!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "CHRISTMAS!!!!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.045
+		},
+		{
+			"expression": "shocked",
+			"text": "What??",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Where are that strange artist??",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "To a better place :)",
+			"boxState": "normal",
+			"portrait": "monster",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Fck",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "(Pensando) Again",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "U' are scared??",
+			"boxState": "normal",
+			"portrait": "monster",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "GO, KILL THAT LEMON!!",
+			"boxState": "angry",
+			"portrait": "miku",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "But how?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'm not scared",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.025
+		},
+		{
+			"expression": "talk",
+			"text": "Kgaste (Spanish)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+		},
+		{
+			"expression": "talk",
+			"text": "Hahaha...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+		},
+		{
+			"expression": "talk",
+			"text": "Proobably you will not escape this time",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "monster"
+		},
+		{
+			"expression": "shocked",
+			"text": "(Pensando) Fck",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

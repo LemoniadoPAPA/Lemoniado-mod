@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "(Pasos) PUM, PUM PUM"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "(Skid y Pump al Unisono) NOSOTROS NOS\\nMARCHAMOS YA!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Pasos cada vez mas cerca) PUUM, PUUM, PUUUM"
+		},
+		{
+			"speed": 0.135,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OtRa ViCtImA mAs"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh shit, here we go again"
+		},
+		{
+			"speed": 0.115,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "EsTo Es UnA SuPeRvIvEnCiA..."
+		},
+		{
+			"speed": 0.115,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "InTeNtA eSqUiVaR mIs AtAqUeS, INTENTA"
+		},
+		{
+			"speed": 0.115,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lA sAlIdA eStA bLoQuEaDa..."
+		},
+		{
+			"speed": 0.005,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "O_ O"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Q_ Q"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "(Rip)"
+		}
+	]
+}

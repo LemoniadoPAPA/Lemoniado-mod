@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THE FIRST WHO ARE HERE CAN RAP WITH ME"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "* Runs so fast*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Stop, you're an artist"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico_boina",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "AND YOU HAVE A PISTOL"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll give you 10 dollars"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Please, don't shoot :("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico_boina",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok -_-"
+		}
+	]
+}

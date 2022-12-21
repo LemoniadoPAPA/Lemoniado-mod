@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.235,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "PUUM!!!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "What?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "PUUM!!!!!!!!!!!!!!!!!!!",
+			"boxState": "normal",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Que pensarias si te digo que vas a morir al instante?",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "tank"
+		},
+		{
+			"expression": "shocked",
+			"text": "Fck!!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Sobre...",
+			"boxState": "normal",
+			"speed": 0.125,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "Sobrevivi...",
+			"boxState": "normal",
+			"speed": 0.215,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "Puede que sea la ultima vez que me veas",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "Y que veas a otra gente",
+			"boxState": "normal",
+			"speed": 0.15,
+			"portrait": "tank"
+		},
+		{
+			"expression": "shocked",
+			"text": "Haay no",
+			"boxState": "normal",
+			"speed": 0.165,
+			"portrait": "bf"
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.32,
+			"portrait": "pico_boina"
+		},
+		{
+			"expression": "talk",
+			"text": "Que pasa?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "*Pico Shoots*",
+			"boxState": "angry",
+			"speed": 0.00500000000000001,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "WHY U' SHOOTIN'?!",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "*Shoots again*",
+			"boxState": "angry",
+			"speed": 0.00500000000000001,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "You don't talk huh?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Let's dodge",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "*Shoot*",
+			"boxState": "angry",
+			"speed": 0.00500000000000001,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "(Conciencia) DODGE IT!",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Fluosh! (Dodging)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "I... i dodge it?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "*Shoot*",
+			"boxState": "angry",
+			"speed": 0.00500000000000001,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Fluosh! (Dodge again)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "LET'S RAP LIKE NOW",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "pico"
+		}
+	]
+}

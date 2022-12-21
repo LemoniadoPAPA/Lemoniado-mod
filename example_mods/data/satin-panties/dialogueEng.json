@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "WHERE I AM?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "You're in a car",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "talk",
+			"text": "At 100KM per hour :)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.49,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "If you win 3 rap battles u' can escape",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "talk",
+			"text": "BUT IF YOU LOSE ONE...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "shocked",
+			"text": "(Pensando) I'm scared\nWHAT HAPPENS IF I LOSE??",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "L...let's rap?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

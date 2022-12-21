@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": Ya', i'm me again (THIS IS THE FINAL TIME)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Final destination is from the mod Shaggy x Matt, created by Srperez and Sulayre"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And, the chart are in 4K"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Chart made by DonoNaza_UwU"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sorry"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "(pensando) IT'S SO MAD"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THE THIRD TIME'S THE CHARM, RIGHT?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I'm not scared, that songs are so easy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "B)"
+		},
+		{
+			"speed": 0.09,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Haha..."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THIS WILL BE NOT EASY..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": LET'S SEE..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Fck"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Fck"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "24 de diciembre de 2021",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Cocoa",
+			"pico",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Eggnog",
+			"pico",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Winter Horrorland",
+			"monster",
+			[
+				160,
+				209,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 5"
+}

@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.235,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "* Shoots *",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "What?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "* Shoots again *",
+			"boxState": "normal",
+			"speed": 0.015,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "You will be DEAD in 2 minutes",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "What do you think?",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "tank"
+		},
+		{
+			"expression": "shocked",
+			"text": "Oh fuck!!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Dodge...",
+			"boxState": "normal",
+			"speed": 0.125,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "Dodge my attacks...",
+			"boxState": "normal",
+			"speed": 0.215,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "Probably these are your FINAL 2 MINUTES",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tank"
+		},
+		{
+			"expression": "talk",
+			"text": "Of all your life...",
+			"boxState": "normal",
+			"speed": 0.15,
+			"portrait": "tank"
+		},
+		{
+			"expression": "shocked",
+			"text": "Fuck me",
+			"boxState": "normal",
+			"speed": 0.165,
+			"portrait": "bf"
+		}
+	]
+}

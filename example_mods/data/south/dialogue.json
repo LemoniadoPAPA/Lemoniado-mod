@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "(Skid) -_-",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "spooky",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "(Pump)Te lo dije",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) REVANCHA!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) Dice la Leyenda que en esta mansion hay una Victima del Virus Glitch",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.285,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.285,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Es mentira no?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) No, es verdad...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.11,
+			"portrait": "spooky"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) Y es un Limon",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Spooky"
+		},
+		{
+			"expression": "shocked",
+			"text": "Podemos empezar la Revancha de una Buena Vez?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(Skid) Ok",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spooky"
+		}
+	]
+}

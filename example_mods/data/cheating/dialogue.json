@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Woow, no recordaba este lugar tan grande"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Porque vinimos?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "El artista raro dijo que aca habria alguien que quiere rapear"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pero no hay nadie"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Y si mintio?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, si', soy yo (Lemoniado endemoniado), \\ny cuando este hablando no va a ser canon"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Quiero avisar que Sticmin_paint no tiene foto de dialogo porque se buguea"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ademas, Cheating es del mod Vs Dave and Bambi, creado por MoldyGH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sigamos"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OTRO VISITANTE MAS!!??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Es el?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SOY YO: STICMIN_PAINT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "VAMO' A RAPEAR"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "??"
+		}
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.32,
+			"portrait": "pico_boina"
+		},
+		{
+			"expression": "talk",
+			"text": "Que pasa?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "PUUUUUUUUUUUM!",
+			"boxState": "angry",
+			"speed": 0.00500000000000001,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "PORQUE DISPARAS?!",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "PUUUUUUUUUUUUUUUUUM!",
+			"boxState": "angry",
+			"speed": 0.00500000000000001,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "Llego el momento de esquivar...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "PUUUUUUUUUMUUU!",
+			"boxState": "angry",
+			"speed": 0.00500000000000001,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "(Conciencia)ESQUIVALA DALE!",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Fluosh! (Efecto de sonido de cuando Lemon Bf esquiva xddd)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "Woooow, lo pude esquivar",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "PUUUUUUUUUUUUUUUUUUUUUUUUM",
+			"boxState": "angry",
+			"speed": 0.00500000000000001,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Fluosh! (Recuerden lo de antes)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "Rapiemos B)",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "pico"
+		}
+	]
+}

@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I will go in airplane",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I never go in, you go anytime?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ya'"
+		},
+		{
+			"expression": "talk",
+			"text": "7:30 AM",
+			"boxState": "normal",
+			"portrait": "none",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tiempo despues (9:00)"
+		},
+		{
+			"expression": "shocked",
+			"text": "The airplane stopped...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.145
+		},
+		{
+			"expression": "shocked",
+			"text": "I'll see in the window that happened",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Ohh, nothing happened",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "11:30 AM",
+			"boxState": "normal",
+			"portrait": "none",
+			"speed": 0.12
+		},
+		{
+			"expression": "talk",
+			"text": "Wooooow",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Look at that mountain",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "It's soooooooooooooooooooooo big",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Hey!!",
+			"boxState": "normal",
+			"portrait": "none",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "What?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "U' two can't go more far than now",
+			"boxState": "normal",
+			"portrait": "tank",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "(Pensando) Ughhhh",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "It's my work -_-",
+			"boxState": "normal",
+			"portrait": "tank",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Stop",
+			"boxState": "normal",
+			"portrait": "tank",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Why u' have a microphone?",
+			"boxState": "normal",
+			"portrait": "tank",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "(Pensando) What i will say",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "For rappin'",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "U' want rap'?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Ya', but if i lose two times i'll shoot you",
+			"boxState": "normal",
+			"portrait": "tank",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Ok O_ O",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Hablando solo xdd) Esta es la primera vez que me voy y vengo solo de la Escuela"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "EL PRIMERO QUE CRUZE ESTA CUADRA VA A RAPEAR CONTRA MI"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "* Se va corriendo desesperadamente *"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Para, pero sos un Artista"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico_boina",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Y que tiene"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "TIENE QUE TENES UNA PISTOLA!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Te doy 100 pesos para que no dispares"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico_boina",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok -_-"
+		}
+	]
+}

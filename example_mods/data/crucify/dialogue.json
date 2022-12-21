@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hola, si soy yo de nuevo. Queria avisar que Crucify es de el mod Friday Night Fever, el cual fue hecho por helloitsmako y CesarFever"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemoniado",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ahora si. Sigamos"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AAAAAAAA"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Pensando)Que le pasa a este?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO PUEDO CREER QUE ME HAYAS GANADO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "LA VENGANZA ES UN PLATO QUE SE SIRVE SOLO"
+		},
+		{
+			"speed": 0.095,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Tartamudeando) Cierto?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Pensando) Opa, se puso nervioso a si que es posible que sea mas facil"
+		}
+	]
+}

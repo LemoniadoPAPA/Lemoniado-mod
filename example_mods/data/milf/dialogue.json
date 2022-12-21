@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "No hay alguna cancion mas dificil?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "(Pensando) PORQUE DIJE ESO?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+				{
+			"expression": "pissed",
+			"text": "(Pensando) ANULO MUFA",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "B)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ahora vamos a 120 kilometros por hora :)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "talk",
+			"text": "Te podes caer muy facilmente",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mom"
+		},
+		{
+			"expression": "shocked",
+			"text": "* Se asusta*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "HORA DE HACER EQUILIBRIO!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}
